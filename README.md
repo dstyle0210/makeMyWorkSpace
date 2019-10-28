@@ -5,6 +5,58 @@
 - 아주 작은 기대
 
 
+VSCode을 이용하여, gulp로 CSS 및 js 컴파일 환경을 만들어 봅니다.
+다루게될 내용
+- VSCode : tool
+- nodejs
+- gulp
+- SASS(gulp-sass)
+- BABEL(gulp-babel)
+
+
+
+
+1. VSCode 다운로드  
+- 다운로드 및 설치  
+- 간단하게 환경 설명  
+  
+2. nodejs  
+- 다운로드 및 설치  
+- npm install 해보기(node_modules)  
+- nodejs API 확인해보기(fs , path)  
+  
+3. SASS  
+- 설치(npm , node-sass)
+- 컴파일 해보기( node-sass sample.scss > sample.css )
+- 변수 적용 해보기 ( $sample:1000px )
+- 파일불러오기 해보기 (@import "sample.scss" )
+
+4. Babel
+- 설치(npm, @babel/cli , @babel/core , @babel/preset-env)
+
+ㅡㅡㅡ  
+아래는 메모  
+
+
+
+
+
+3. gulp
+- gulp 설치해보기
+- gulp plugin 구경하기
+- gulp로 간단하게 task runner 구성해보기
+
+
+
+
+
+
+
+업무환경 만들기 초급
+- VScode
+- 
+
+
 ##제목
 프론트엔드 업무환경 겉핣기.
 
