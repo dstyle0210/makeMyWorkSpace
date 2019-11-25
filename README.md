@@ -47,6 +47,10 @@ nodejs : https://nodejs.org/ko/
 
 
 
+tomcat context
+<Context path="" docBase="경로" reloadable="false" > </Context>
+
+
 
 3. gulp
 - gulp 설치해보기
