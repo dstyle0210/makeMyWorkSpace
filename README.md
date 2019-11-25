@@ -38,6 +38,13 @@ VSCode을 이용하여, gulp로 CSS 및 js 컴파일 환경을 만들어 봅니�
 아래는 메모  
 
 
+다운로드 필요사이트
+JDK : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html (JDK SE 8)
+TOMCAT : https://tomcat.apache.org/download-80.cgi (tomcat 8)
+GIT : https://git-scm.com/download/win
+nodejs : https://nodejs.org/ko/
+
+
 
 
 
